@@ -7,5 +7,5 @@ This is a simple overview of my portfolio. I will continue to update and add mor
 
 Thank you for visiting my portfolio!
 
-to sun this portfolio in the browser click this link
+#### To run this file in the browser click this link ###
 ###  https://rawcdn.githack.com/Bensen404/Portfolio/main/index.html
