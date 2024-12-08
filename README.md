@@ -9,3 +9,4 @@ Thank you for visiting my portfolio!
 
 #### To run this file in the browser click this link ###
 ###  https://rawcdn.githack.com/Bensen404/Portfolio/main/index.html
+(not optimised for mobile )
